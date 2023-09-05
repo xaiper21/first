@@ -1,0 +1,92 @@
+.ocnova {
+  background-color: white;
+  /* height: 100vh;
+  width: 100vw; */
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+
+  padding: 1vh 1vh 1vw 1vw;
+}
+.redkub {
+  background-color: red;
+  height: 90vh;
+  width: 33vw;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 2vh;*/
+  
+}
+.greenkub {
+  background-color: green;
+  height: 90vh;
+  width: 33vw;
+  display: flex;
+  
+}
+.bluekub {
+  background-color: blue;
+  height: 90vh;
+  width: 33vw;
+  display: flex;
+  
+  
+}
+.minigreen {
+  background-color: green;
+  height: 38vh;
+  width: 30vw;
+  /* padding: 2vw 2vw 2vh 2vh; */
+  font-size: larger;
+  font-weight: 900;
+  color: white;
+}
+.miniblue {
+  background-color: blue;
+  height: 38vh;
+  width: 30vw;
+  /* padding: 2vw 2vw 2vh 2vh; */
+  font-size: larger;
+  font-weight: 900;
+  color: white;
+}
+.kubinkub {
+    height: 76vh;
+    width: 30vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 2vw;
+    padding-right: 1vw;
+    /* padding: 2vw 2vw 2vh 2vh;  */
+}
+
+.zaebalone {
+    display: flex;
+    flex-direction: column;   
+    padding-left: 1vw;
+    padding-top: 2vw;
+    font-size: larger;
+    font-weight: 900;
+    color: white;
+}
+.zaebalotwo {
+    display: flex;
+    flex-direction: column;   
+    padding-left: 1vw;
+    padding-top: 2vw;
+    font-size: larger;
+    font-weight: 900;
+    color: white;
+}
+.zaebalothree {
+    display: flex;
+    flex-direction: column;   
+    padding-left: 1vw;
+    padding-top: 2vw;
+    font-size: larger;
+    font-weight: 900;
+    color: white;
+
+}
